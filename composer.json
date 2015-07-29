@@ -1,0 +1,27 @@
+{
+    "name": "25mordad/groupAnalyseBot",
+    "description": "Telegram Bot For Analyse Group",
+    "keywords": [
+        "telegram",
+        "bot",
+        "analyse"
+    ],
+    "homepage": "https://github.com/25mordad/groupAnalyseBot",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bahman R",
+            "email": "25Mordad@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/25mordad/groupAnalyseBot/issues",
+        "source": "https://github.com/zelenin/telegram-bot-api"
+    },
+    "require": {
+        "zelenin/telegram-bot-api": "~0.0",
+        "guzzlehttp/guzzle": "~6",
+        "joshcam/mysqli-database-class": "dev-master"
+    }
+}
